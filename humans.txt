@@ -1,0 +1,27 @@
+/* TEAM */
+	Lead Developer: Skylar Schipper
+	Contact: ss@quietsight.com
+	Twitter: @SkylarSch
+	From: Stillwater, Oklahoma, USA
+	
+	UI Developer: Casey Crowdis
+	Contact: info@quietsight.com
+	Twitter: @QuietSight
+	From: Oklahoma City, Oklahoma, USA
+	
+	Graphic Designer: Casey Crowdis
+	Contact: info@quietsight.com
+	Twitter: @QuietSight
+	From: Oklahoma City, Oklahoma, USA
+	
+	Backend Programer: Skylar Schipper
+	Contact: ss@quietsight.com
+	Twitter: @SkylarSch
+	From: Stillwater, Oklahoma, USA
+	
+	
+	
+/* SITE */
+	Created 10/2011
+	IDE: Coda, BBEdit, Photoshop, Illustrator
+	Powered by LAMP

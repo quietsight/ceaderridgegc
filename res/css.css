@@ -1,0 +1,213 @@
+/**
+ *
+ *	CSS for Cedar Ridge General Contracting, LLC
+ *		
+ *
+ *		@author Skylar Schipper	
+ *		@company QuietSight Inc
+ *		@date 10/14/11
+ *
+ *
+ *
+ *
+ *
+*/
+
+/**  Main Content **/
+html{margin:0px;}
+body{
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #383834;
+	color: #fff0d2;
+}
+.header{
+	background: url(images/cedarridge_header.png);
+	height: 300px;
+}
+.footer{
+	background: url(images/cedarridge_footer.png);
+	height: 200px;
+	margin-top: -200px;
+	font-family: monospace;
+	font-size: 10px;
+	text-align: center;
+	margin-bottom: 400px;
+}
+.footer-content{
+	text-shadow: 0px 2px 2px #252525;
+	padding-top: 180px;
+	color: #e5e5ce;
+}
+.footer-content a{
+	color: inherit;
+}
+.return-to-top{
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 12px;
+	margin-top: 20px;
+	color: #707068;
+}
+/**  Body Content **/
+.rails-container{
+	background: url(images/rail.png);
+	padding-bottom: 200px;
+	margin-top: -7px;
+}
+.coaster-bar{
+	background: url(sprites/cedarsprite01.png) 0 -370px;
+	height: 50px;
+	margin-left: 10px;
+	width: 920px;
+	position: absolute;
+	top: 300px;
+	z-index: 1000;
+}
+.inner{
+	width: 620px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 80px;
+}
+.inner-header{
+	height: 30px;
+	margin-top: 5px;
+	width: 820px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #1B1F04;
+	margin-top: 10px;
+}
+.inner-indicator{
+	background-color: #FFF0D2;
+}
+.best-bar{
+	width: 200px;
+	height: inherit;
+}
+.build-bar{
+	width: 120px;
+	margin-left: 205px;
+	height: inherit;
+}
+.world-bar{
+	width: 240px;
+	margin-left: 330px;
+	height: inherit;
+}
+.contact-bar{
+	margin-left: 575px;
+	width: 155px;
+	height: inherit;
+}
+.best-bar-link{
+	height: inherit;
+	width: 200px;
+	float: left;
+	margin-left: 50px;
+}
+.build-bar-link{
+	height: inherit;
+	width: 120px;
+	float: left;
+	margin-left: 5px;
+}
+.world-bar-link{
+	height: inherit;
+	width: 240px;
+	float: left;
+	margin-left: 5px;
+}
+.contact-bar-link{
+	height: inherit;
+	width: 155px;
+	float: left;
+	margin-left: 5px;
+}
+.login-bar-link{
+	height: inherit;
+	width: 90px;
+	float: left;
+	margin-left: 5px;
+}
+/** header **/
+.head-info{
+	color: black;
+	margin-left: 620px;
+	padding-top: 90px;
+	font-size: 24px;
+}
+.pr-access{
+	width: 230px;
+	height: 100px;
+	background: url(images/pr_link.png);
+	margin-left: 650px;
+}
+#pr-link{
+	padding-top: 20px;
+}
+/**  Pics **/
+div.images-link{
+	color: #3b372f;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	height: 32px;
+	background-image: url(sprites/cedarsprite01.png);
+	background-position: -620px -280px;
+	padding-top: 8px;
+	cursor: pointer;
+	font-size: 20px;
+}
+
+/**  Worldwide Service **/
+.world-map{
+	width: 620px;
+	height: 370px;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(sprites/cedarsprite01.png);
+}
+/**  Contact Page **/
+.contact-us{
+	font-size: 24px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.map{
+	float: left;
+}
+.contact-copy{
+	float: left;
+	font-size: 24px;
+	margin-top: 40px;
+	margin-left: 30px;
+}
+
+h3{
+	text-align: center;
+	font-size: 36px;
+}
+p{
+	font-size: 18px;
+}
+a{
+	color: inherit;
+}
+/**  Helper **/
+.clear{clear:both;}
+.padding30{height:30px;}
+.point{cursor:pointer;}
+small{font-size:13px;}
+.js-link{text-decoration:underline;cursor:pointer;}
+.skiny{font-weight:100;}
