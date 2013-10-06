@@ -50,7 +50,7 @@
 		</div>
 		
 		<div class="project-gallery inner">
-			<h3>We Offer the BEST in Residential, Industrial and Commercial construction</h3>
+			<h3>We Offer the BEST in Industrial Construction</h3>
 			<center>
 				<!-- Start WOWSlider.com BODY section -->
 	<div id="wowslider-container1">
@@ -93,7 +93,7 @@
 			</div>
 -->
 			<div class="clear padding30"></div>
-			<p>We have a growing list of satisfied clients who choose Cedar Ridge General Contracting to fulfill their building needs. Check back from time to time for updates to our gallery.</p>
+			<p>We have a growing list of satisfied clients who choose Cedar Ridge General Contracting & Construction to fulfill their building needs. Check back from time to time for updates to our gallery.</p>
 			
 			<div class="return-to-top js-link" onclick="barScrollAtIndex('top')">Back to Top</div>
 		</div>
@@ -103,9 +103,10 @@
 		</div>
 		
 		<div class="about inner">
-			<h3>Cedar Ridge General Contracting, LLC Building a Better World</h3>
-			<p>Cedar Ridge General Contracting LLC is all about you. We exist to help you build the perfect industrial or commercial facility - on schedule and on target. We specialize in oilfield industrial facilities, but our team of professionals can tackle a wide variety of projects - factories, shopping centers, even Class I, Div 2 facilities. Moreover, we always go above and beyond to meet and exceed customer expectations.</p>
-			<p>Our passionate and dedicated team will work with you to develop the ideal design to fit your needs. And with our ability to "design on the fly," we can adapt to the most challenging circumstances in order to bring your project in on time and under budget. If you need it done right Cedar Ridge General Contracting delivers!</p>
+			<h3>Cedar Ridge General Contracting & Construction<br>
+			Building a Better World</h3>
+			<p>Cedar Ridge General Contracting & Construction is all about you. We exist to help you build the perfect residential, industrial or commercial facility - on schedule and on target. Our team of professionals can tackle a wide variety of projects - residential structures, oilfield industrial facilities, factories, shopping centers, even Class I, Div 2 facilities. Moreover, we always go above and beyond to meet and exceed customer expectations.</p>
+			<p>Our passionate and dedicated team will work with you to develop the ideal design to fit your needs. And with our ability to "design on the fly," we can adapt to the most challenging circumstances in order to bring your project in on time and under budget. If you need it done right Cedar Ridge General Contracting & Construction delivers!</p>
 			<div class="return-to-top js-link" onclick="barScrollAtIndex('top')">Back to Top</div>
 		</div>
 		
@@ -116,7 +117,7 @@
 		<div class="world-wide inner">
 			<h3>Worldwide Service</h3>
 			<div class="world-map"></div>
-			<p>Cedar Ridge General Contracting LLC is a worldwide builder. Our home office is based in the heart of the United States in Woodward, Oklahoma, but our service is without borders. Have a project in mind? Don't hesitate to give us a call. Guaranteed, we can help you work out the right solution to your problem. Big or small and around the globe, we are industry leaders who are here for you!</p>
+			<p>Cedar Ridge General Contracting & Construction is a worldwide builder. Our home office is based in the heart of the United States in Woodward, Oklahoma, but our service is without borders. Have a project in mind? Don't hesitate to give us a call. Guaranteed, we can help you work out the right solution to your problem. Big or small and around the globe, we are industry leaders who are here for you!</p>
 			<div class="return-to-top js-link" onclick="barScrollAtIndex('top')">Back to Top</div>
 		</div>
 		
@@ -131,7 +132,7 @@
 			</div>
 			<div class="contact-copy">
 			 	Cedar Ridge General<br>
-			 	Contracting, LLC<br>
+			 	Contracting & Construction, LLC<br>
 			 	P.O. Box 1689<br>
 			 	Woodward, OK 73802<br>
 			 	ofc (580) 254-8066<br>
@@ -145,7 +146,7 @@
 	</div>
 	<div class="footer">
 		<div class="footer-content">
-			&copy;<?php echo date('Y'); ?> Cedar Ridge General Contracting | site by <a href="http://quietsight.com">Quiet Sight Inc</a>
+			&copy;<?php echo date('Y'); ?> Cedar Ridge General Contracting & Construction, LLC | site by <a href="http://quietsight.com">Quiet Sight Inc</a>
 		</div>
 	</div>
 <script type="text/javascript">
